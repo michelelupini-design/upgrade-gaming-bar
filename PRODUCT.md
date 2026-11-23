@@ -1,9 +1,9 @@
 # UpGrade Gaming Bar — Q11 Space Otherfold Games
 
-An arcade-control-first launcher for an existing Android/RetroArch installation. The current delivery is for Michele's UpGrade Gaming Bar console; the community preparation must also be understandable and reproducible by independent contributors.
+An arcade-control-first launcher for an existing Android/RetroArch installation, originally restored for an UpGrade Gaming Bar console and shared for independent contributors.
 
-Preserve the tested joystick/button mappings, game exit behavior, catalog visibility rules and production installation. Prepare internationalization, original artwork, a documented build and compatibility reports. No ROMs, BIOS, vendor firmware, signing identities, Wi-Fi configuration or maintenance credentials belong in the community tree.
+Preserve tested joystick/button mappings, normal game exits, catalog visibility and a recoverable production installation. Contributions focus on language coverage, usability, documented integration and exact hardware compatibility reports. No ROMs, BIOS, vendor firmware, production signing identities, Wi-Fi configuration or maintenance credentials belong in this tree.
 
-Only one device is currently verified: Android properties n200 / meson8, Android 4.4.2 API 19, Amlogic Meson8, about 815 MB reported RAM. The printed motherboard revision has not been freshly verified. Do not claim general Pandora-family compatibility.
+The reference installation is n200/meson8, Android 4.4.2 API 19 ARMv7. The printed motherboard revision is unverified; this is not a claim of general Pandora-family compatibility. Its microSD boot and representative launches/exits passed; every new build still needs isolated checks before replacing a working launcher.
 
-The microSD migration remains a separate acceptance step against the working Italian release. A new community build must be tested alongside production before replacement. GitHub publication and the project-wide license remain decisions for Michele after the audit.
+Code: MIT. Three named non-brand artwork files: CC BY 4.0. Font: OFL. Q11/UpGrade branding follows its separate policy. See LICENSE, ASSET-LICENSES.md and BRAND-POLICY.md for the scopes.
