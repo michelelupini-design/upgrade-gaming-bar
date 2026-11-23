@@ -1,0 +1,50 @@
+{
+  "it": {
+    "translated_keys": 114,
+    "total_keys": 114,
+    "status": "initial-complete",
+    "human_reviewed": false
+  },
+  "en": {
+    "translated_keys": 114,
+    "total_keys": 114,
+    "status": "initial-complete",
+    "human_reviewed": false
+  },
+  "es": {
+    "translated_keys": 12,
+    "total_keys": 114,
+    "status": "partial-starter",
+    "human_reviewed": false
+  },
+  "pt": {
+    "translated_keys": 12,
+    "total_keys": 114,
+    "status": "partial-starter",
+    "human_reviewed": false
+  },
+  "de": {
+    "translated_keys": 12,
+    "total_keys": 114,
+    "status": "partial-starter",
+    "human_reviewed": false
+  },
+  "fr": {
+    "translated_keys": 12,
+    "total_keys": 114,
+    "status": "partial-starter",
+    "human_reviewed": false
+  },
+  "zh-Hans": {
+    "translated_keys": 12,
+    "total_keys": 114,
+    "status": "partial-starter",
+    "human_reviewed": false
+  },
+  "ja": {
+    "translated_keys": 12,
+    "total_keys": 114,
+    "status": "partial-starter",
+    "human_reviewed": false
+  }
+}

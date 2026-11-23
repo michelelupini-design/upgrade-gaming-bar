@@ -1,0 +1,31 @@
+name: Hardware or game compatibility
+description: Report a reproducible issue without uploading game files or private data.
+title: "[Compatibility] "
+body:
+  - type: markdown
+    attributes:
+      value: "Do not attach ROMs, BIOS, firmware, network credentials or private keys. Report observations separately from assumptions."
+  - type: textarea
+    id: hardware
+    attributes:
+      label: Exact hardware and Android version
+      description: Board revision if known, model/SoC, Android/API, launcher version and controller/encoder.
+    validations:
+      required: true
+  - type: textarea
+    id: emulator
+    attributes:
+      label: Emulator and content identity
+      description: RetroArch/core version, game title/version/region and checksum when available. No download payloads.
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps, expected result and observed result
+      description: Include whether this was file validation, an automated launch or actual play.
+    validations:
+      required: true
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Safe evidence
+      description: Relevant redacted logs and tests already tried. Remove addresses, credentials and personal data.

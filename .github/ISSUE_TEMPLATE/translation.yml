@@ -1,0 +1,22 @@
+name: Translation or language rendering
+description: Improve a locale, terminology or font/layout behavior.
+title: "[Translation] "
+body:
+  - type: input
+    id: language
+    attributes:
+      label: Language and resource key
+    validations:
+      required: true
+  - type: textarea
+    id: suggestion
+    attributes:
+      label: Existing text, proposed text and reason
+      description: Preserve format parameters and distinguish native review from a machine draft.
+    validations:
+      required: true
+  - type: textarea
+    id: rendering
+    attributes:
+      label: Display check
+      description: Optional safe screenshot of our interface and device resolution. Do not include game screenshots or private network information.

@@ -1,0 +1,26 @@
+name: Authorized game source suggestion
+description: Suggest an author's release or a compatibility test, not a ROM upload.
+title: "[Game source] "
+body:
+  - type: input
+    id: title
+    attributes:
+      label: Game title, platform and version
+    validations:
+      required: true
+  - type: input
+    id: source
+    attributes:
+      label: Original author or authorized publisher URL
+    validations:
+      required: true
+  - type: textarea
+    id: permission
+    attributes:
+      label: Distribution terms and attribution
+      description: Link the actual terms for the game and its assets. A source-code license alone may not cover music or graphics.
+  - type: textarea
+    id: test
+    attributes:
+      label: Tests performed
+      description: Hardware/core, language, inputs, audio, progress and return to launcher. State what is still untested.

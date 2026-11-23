@@ -1,0 +1,458 @@
+{
+  "nav.all": {
+    "it": "Tutti i giochi",
+    "en": "All games"
+  },
+  "nav.search": {
+    "it": "Cerca un gioco",
+    "en": "Find a game"
+  },
+  "nav.favorites": {
+    "it": "Preferiti",
+    "en": "Favorites"
+  },
+  "nav.guide": {
+    "it": "Guida ai comandi",
+    "en": "Controls guide"
+  },
+  "nav.imports": {
+    "it": "Import e altre lingue",
+    "en": "Imports and other languages"
+  },
+  "nav.settings": {
+    "it": "Opzioni console",
+    "en": "Console options"
+  },
+  "genre.classics": {
+    "it": "Classici",
+    "en": "Classics"
+  },
+  "genre.action": {
+    "it": "Azione",
+    "en": "Action"
+  },
+  "genre.shooters": {
+    "it": "Sparatutto",
+    "en": "Shooters"
+  },
+  "genre.puzzle": {
+    "it": "Rompicapo",
+    "en": "Puzzle"
+  },
+  "genre.sports": {
+    "it": "Sport",
+    "en": "Sports"
+  },
+  "action.read_guide": {
+    "it": "Leggi guida",
+    "en": "Read guide"
+  },
+  "action.next_page": {
+    "it": "Pagina dopo",
+    "en": "Next page"
+  },
+  "action.previous_page": {
+    "it": "Pagina prima",
+    "en": "Previous page"
+  },
+  "action.categories": {
+    "it": "Categorie",
+    "en": "Categories"
+  },
+  "action.game_details": {
+    "it": "Scheda gioco",
+    "en": "Game details"
+  },
+  "action.letter": {
+    "it": "Lettera",
+    "en": "Letter"
+  },
+  "action.keyboard": {
+    "it": "Tastiera",
+    "en": "Keyboard"
+  },
+  "action.results": {
+    "it": "Risultati",
+    "en": "Results"
+  },
+  "action.delete": {
+    "it": "Cancella",
+    "en": "Delete"
+  },
+  "action.previous_filter": {
+    "it": "Filtro prima",
+    "en": "Previous filter"
+  },
+  "action.next_filter": {
+    "it": "Filtro dopo",
+    "en": "Next filter"
+  },
+  "action.open_options": {
+    "it": "Apri opzioni",
+    "en": "Open options"
+  },
+  "action.launch": {
+    "it": "Avvia",
+    "en": "Play"
+  },
+  "action.edit_search": {
+    "it": "Modifica ricerca",
+    "en": "Edit search"
+  },
+  "key.space": {
+    "it": "SPAZIO",
+    "en": "SPACE"
+  },
+  "key.delete": {
+    "it": "CANCELLA",
+    "en": "DELETE"
+  },
+  "key.filter": {
+    "it": "FILTRO",
+    "en": "FILTER"
+  },
+  "key.back": {
+    "it": "INDIETRO",
+    "en": "BACK"
+  },
+  "header.options": {
+    "it": "Rete, Wi-Fi e gestione della console",
+    "en": "Network, Wi-Fi and console settings"
+  },
+  "header.guide": {
+    "it": "Joystick: categorie   /   D-E: pagine guida",
+    "en": "Joystick: categories   /   D-E: guide pages"
+  },
+  "header.search": {
+    "it": "Nome: %s   /   %s",
+    "en": "Name: %s   /   %s"
+  },
+  "header.any_name": {
+    "it": "qualsiasi",
+    "en": "any"
+  },
+  "header.all_platforms": {
+    "it": "Tutte le piattaforme",
+    "en": "All platforms"
+  },
+  "header.count": {
+    "it": "%d giochi in ordine alfabetico",
+    "en": "%d games in alphabetical order"
+  },
+  "guide.page": {
+    "it": "Pagina %d / 3   -   D / E: cambia pagina",
+    "en": "Page %d / 3   -   D / E: change page"
+  },
+  "settings.heading": {
+    "it": "Impostazioni della console",
+    "en": "Console settings"
+  },
+  "settings.open_hint": {
+    "it": "Premi A per aprire rete e Wi-Fi.",
+    "en": "Press A for network and Wi-Fi settings."
+  },
+  "settings.category_hint": {
+    "it": "Puoi continuare a scorrere le categorie con il joystick.",
+    "en": "Use the joystick to keep browsing categories."
+  },
+  "empty.medium": {
+    "it": "Supporto giochi non disponibile",
+    "en": "Game storage unavailable"
+  },
+  "empty.check_medium": {
+    "it": "Controlla la microSD o il supporto USB e riprova.",
+    "en": "Check the microSD or USB storage and retry."
+  },
+  "empty.ps": {
+    "it": "Nessun titolo PlayStation verificato",
+    "en": "No verified PlayStation titles"
+  },
+  "empty.none": {
+    "it": "Nessun gioco trovato",
+    "en": "No games found"
+  },
+  "empty.cd_review": {
+    "it": "Le immagini CD recuperate richiedono ulteriori verifiche.",
+    "en": "Recovered CD images need further checks."
+  },
+  "empty.favorite_hint": {
+    "it": "Premi C su un gioco per aggiungerlo qui.",
+    "en": "Press C on a game to add it here."
+  },
+  "empty.search_hint": {
+    "it": "Apri Cerca un gioco per cambiare nome o piattaforma.",
+    "en": "Open Find a game to change name or platform."
+  },
+  "empty.ps_catalog": {
+    "it": "Nessun gioco PlayStation è stato pubblicato nel catalogo.",
+    "en": "No PlayStation games have been added to the catalog."
+  },
+  "game.player": {
+    "it": "giocatore",
+    "en": "player"
+  },
+  "game.players": {
+    "it": "giocatori",
+    "en": "players"
+  },
+  "game.favorite": {
+    "it": "Preferito",
+    "en": "Favorite"
+  },
+  "game.images": {
+    "it": "Sinistra / destra: immagini",
+    "en": "Left / right: images"
+  },
+  "game.exit_hint": {
+    "it": "Nel gioco: Play/Pausa + F (1P) = esci",
+    "en": "In game: Play/Pause + P1 F = exit"
+  },
+  "list.page": {
+    "it": "Pagina %d / %d",
+    "en": "Page %d / %d"
+  },
+  "search.minimum": {
+    "it": "Scrivi almeno 3 caratteri",
+    "en": "Enter at least 3 characters"
+  },
+  "search.ready_hint": {
+    "it": "I suggerimenti compariranno da 3 caratteri.",
+    "en": "Suggestions appear after 3 characters."
+  },
+  "search.none": {
+    "it": "Nessun gioco trovato. Cambia testo o piattaforma.",
+    "en": "No games found. Change text or platform."
+  },
+  "search.matches": {
+    "it": "%d corrispondenze  /  Su dai numeri per scegliere",
+    "en": "%d matches  /  Up from numbers to select"
+  },
+  "search.platform": {
+    "it": "Piattaforma: %s",
+    "en": "Platform: %s"
+  },
+  "search.help": {
+    "it": "Su dai numeri: suggerimenti   /   B: risultati o tastiera   /   F: categorie",
+    "en": "Up from numbers: suggestions   /   B: results or keyboard   /   F: categories"
+  },
+  "network.unassigned": {
+    "it": "non assegnato",
+    "en": "not assigned"
+  },
+  "network.unavailable": {
+    "it": "non disponibile",
+    "en": "unavailable"
+  },
+  "network.status": {
+    "it": "LAN: %s\nWi-Fi: %s   Rete: %s",
+    "en": "LAN: %s\nWi-Fi: %s   Network: %s"
+  },
+  "network.status_error": {
+    "it": "Stato rete non disponibile. F torna al catalogo.",
+    "en": "Network status unavailable. F returns to catalog."
+  },
+  "network.back": {
+    "it": "Torna al catalogo",
+    "en": "Return to catalog"
+  },
+  "network.refresh": {
+    "it": "Aggiorna stato rete",
+    "en": "Refresh network status"
+  },
+  "network.enable": {
+    "it": "Attiva Wi-Fi",
+    "en": "Enable Wi-Fi"
+  },
+  "network.connect": {
+    "it": "Collega rete salvata: %s",
+    "en": "Connect saved network: %s"
+  },
+  "network.enabled": {
+    "it": "Wi-Fi attivato o già attivo",
+    "en": "Wi-Fi enabled or already on"
+  },
+  "network.enable_first": {
+    "it": "Attiva prima il Wi-Fi",
+    "en": "Enable Wi-Fi first"
+  },
+  "network.requested": {
+    "it": "Richiesta inviata: attendi lo stato IP in alto",
+    "en": "Request sent: wait for the IP status above"
+  },
+  "network.connect_error": {
+    "it": "Connessione non disponibile",
+    "en": "Connection unavailable"
+  },
+  "network.change_error": {
+    "it": "Impossibile cambiare rete. F torna al catalogo.",
+    "en": "Cannot change network. F returns to catalog."
+  },
+  "options.help": {
+    "it": "Joystick: scegli   A / 1P: conferma   F / B / D / Esc: indietro",
+    "en": "Joystick: select   A / 1P: confirm   F / B / D / Esc: back"
+  },
+  "language.choice": {
+    "it": "Lingua: %s",
+    "en": "Language: %s"
+  },
+  "language.back": {
+    "it": "Torna alle opzioni",
+    "en": "Return to options"
+  },
+  "language.heading": {
+    "it": "Lingua dell'interfaccia",
+    "en": "Interface language"
+  },
+  "language.partial": {
+    "it": "Lingue in preparazione: i testi mancanti sono in inglese.",
+    "en": "Languages in progress: missing text appears in English."
+  },
+  "toast.game_missing": {
+    "it": "Gioco non disponibile. Controlla il supporto giochi.",
+    "en": "Game unavailable. Check game storage."
+  },
+  "toast.exit": {
+    "it": "Per uscire: tieni Play/Pausa e premi F del giocatore 1",
+    "en": "To exit: hold Play/Pause and press player 1 F"
+  },
+  "toast.launch_failed": {
+    "it": "Impossibile aprire il gioco. Ritorna al menu e riprova.",
+    "en": "Cannot open game. Return to menu and retry."
+  },
+  "guide.play": {
+    "it": "Play / Pausa",
+    "en": "Play / Pause"
+  },
+  "guide.credit_combo": {
+    "it": "Credito e combinazioni",
+    "en": "Credit and shortcuts"
+  },
+  "guide.start_one": {
+    "it": "Avvia il giocatore 1",
+    "en": "Start player 1"
+  },
+  "guide.joystick": {
+    "it": "Joystick",
+    "en": "Joystick"
+  },
+  "guide.move_select": {
+    "it": "Sposta e seleziona",
+    "en": "Move and select"
+  },
+  "guide.buttons": {
+    "it": "Pulsanti A - F",
+    "en": "Buttons A - F"
+  },
+  "guide.game_controls": {
+    "it": "Comandi del gioco",
+    "en": "Game controls"
+  },
+  "guide.distinct": {
+    "it": "Play/Pausa e 1P sono due pulsanti diversi",
+    "en": "Play/Pause and 1P are separate buttons"
+  },
+  "guide.choose": {
+    "it": "Joystick: scegli giochi e categorie",
+    "en": "Joystick: select games and categories"
+  },
+  "guide.confirm": {
+    "it": "A o 1P: conferma / avvia",
+    "en": "A or 1P: confirm / play"
+  },
+  "guide.search_toggle": {
+    "it": "B nella ricerca: tastiera / risultati",
+    "en": "B in search: keyboard / results"
+  },
+  "guide.favorite_delete": {
+    "it": "C: preferiti oppure cancella lettera",
+    "en": "C: favorites or delete letter"
+  },
+  "guide.page_filter": {
+    "it": "D / E: pagina oppure filtro ricerca",
+    "en": "D / E: page or search filter"
+  },
+  "guide.categories": {
+    "it": "F: sempre categorie a sinistra",
+    "en": "F: always return to categories"
+  },
+  "guide.three_chars": {
+    "it": "Cerca: componi almeno 3 caratteri",
+    "en": "Search: enter at least 3 characters"
+  },
+  "guide.up_suggestions": {
+    "it": "Dai numeri vai su ai suggerimenti",
+    "en": "Up from numbers opens suggestions"
+  },
+  "guide.one_step": {
+    "it": "F torna alle categorie in un passaggio",
+    "en": "F returns to categories in one step"
+  },
+  "guide.context": {
+    "it": "Tutte le istruzioni seguono la schermata aperta.",
+    "en": "Instructions follow the current screen."
+  },
+  "guide.footer": {
+    "it": "La barra in basso mostra la funzione dei tasti.",
+    "en": "The bottom bar shows button actions."
+  },
+  "guide.direct_exit": {
+    "it": "USCITA DIRETTA",
+    "en": "DIRECT EXIT"
+  },
+  "guide.hold": {
+    "it": "Tieni Play/Pausa per un secondo.",
+    "en": "Hold Play/Pause for one second."
+  },
+  "guide.press_f": {
+    "it": "Senza rilasciarlo, premi F del giocatore 1.",
+    "en": "Keep holding it and press player 1 F."
+  },
+  "guide.wait_menu": {
+    "it": "Attendi il ritorno a UpGrade.",
+    "en": "Wait for the UpGrade menu."
+  },
+  "guide.quick_menu": {
+    "it": "MENU RAPIDO",
+    "en": "QUICK MENU"
+  },
+  "guide.quick_combo": {
+    "it": "Tieni Play/Pausa e premi 1P.",
+    "en": "Hold Play/Pause and press 1P."
+  },
+  "guide.quick_actions": {
+    "it": "Da qui: riprendi, riavvia, salva o chiudi.",
+    "en": "Resume, restart, save or close from here."
+  },
+  "guide.in_game": {
+    "it": "IN PARTITA",
+    "en": "IN GAME"
+  },
+  "guide.game_buttons": {
+    "it": "Joystick e A-F: comandi del gioco.",
+    "en": "Joystick and A-F: game controls."
+  },
+  "guide.credit_start": {
+    "it": "Play/Pausa: credito. 1P / 2P: inizia.",
+    "en": "Play/Pause: credit. 1P / 2P: start."
+  },
+  "guide.f_alone": {
+    "it": "F da solo resta un pulsante di gioco.",
+    "en": "F alone remains a game button."
+  },
+  "guide.no_poweroff": {
+    "it": "Per uscire non serve spegnere la console.",
+    "en": "You do not need to power off to exit."
+  },
+  "guide.panel": {
+    "it": "La tua plancia",
+    "en": "Your control panel"
+  },
+  "guide.menu_search": {
+    "it": "Menu e ricerca",
+    "en": "Menu and search"
+  },
+  "guide.during_game": {
+    "it": "Durante la partita",
+    "en": "During a game"
+  }
+}

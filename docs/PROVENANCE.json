@@ -1,0 +1,23 @@
+{
+  "reviewed_utc": "2026-11-22T19:32:17.823490+00:00",
+  "status": "Local owner-review draft, not published; license and artwork distribution terms pending",
+  "assets": {
+    "assets/theme/background-atlas.png": "Original generated atlas, 22 November 2026; no vendor image used in distribution",
+    "res/drawable-nodpi/upgrade_startup.png": "Original generated UpGrade startup artwork, 22 November 2026",
+    "assets/theme/upgrade-arcade-v2.png": "Existing project-generated UpGrade lettering",
+    "assets/theme/arcade-buttons-v3.png": "Existing project-generated arcade button atlas",
+    "assets/theme/guide-panel-v2.png": "Existing generated control-panel reconstruction from owner device photo",
+    "assets/theme/fonts/VT323-Regular.ttf": "Unmodified Google Fonts VT323; SIL OFL 1.1 notice included",
+    "assets/theme/q11-space-otherfold-games.png": "Existing complete owner brand, explicitly chosen 22 November 2026; copied byte-for-byte, not the Fantasy Worlds icon derivative"
+  },
+  "excluded": [
+    "vendor skins/logos",
+    "ROMs and BIOS",
+    "emulator and firmware binaries",
+    "private signing and maintenance keys",
+    "Wi-Fi configuration",
+    "production catalog and game screenshots"
+  ],
+  "publisher": "Q11 Space Otherfold Games",
+  "product": "UpGrade Gaming Bar"
+}
